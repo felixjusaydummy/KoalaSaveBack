@@ -27,7 +27,7 @@
     "nodemon": "^1.17.1",
     "parse-error": "^0.2.0",
     "polished": "^3.4.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "styled-components": "^4.4.1",
     "tedious": "^6.6.2"
   }
